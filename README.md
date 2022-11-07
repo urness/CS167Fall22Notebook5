@@ -4,7 +4,7 @@ For this notebook, you are going to demonstrate how to use the scikit-learn libr
 
 
 ## The Data :bar_chart: 
-You will use the Wisconsin Breast Cancer Dataset that we have used in the past (available in the Resources section of the Blackboard website. The dataset is derived from the one here:  http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
+You will use the Wisconsin Breast Cancer Dataset (breast-cancer-wisconsin-data.csv) that we have used in the past (available in the Datasets section of the Blackboard website. The dataset is derived from the one here:  http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
 The goal for this machine learning exercise is to use the scikit-Learn library implementations to make predictions if a medical scan indicates that a tumor is malignant (M -- Bad news) or benign (B -- Good news).
 
