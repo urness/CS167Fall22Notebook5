@@ -8,7 +8,7 @@ You will use the Wisconsin Breast Cancer Dataset (breast-cancer-wisconsin-data.c
 
 The goal for this machine learning exercise is to use the scikit-Learn library implementations to make predictions if a medical scan indicates that a tumor is malignant (M -- Bad news) or benign (B -- Good news).
 
-As the Support Vector Classifier, Perceptron, and Stochastic Gradient Descent are sensitive to feature scaling, it is highly recommended that you normalize the data prior to utilizing the algorithms. The starter code provided loads the data and normalizes it for you. (**No** cleaning of the data is required of this project.)
+As the Support Vector Classifier, Perceptron, and Stochastic Gradient Descent are sensitive to feature scaling, it is highly recommended that you normalize the data prior to utilizing the algorithms. The starter code provided loads the data, cleans it (dropping a column) and normalizes it for you. (**No** additional cleaning of the data is required of this project.)
 
 ## The Exercises: 💪
 This notebook assignment asks you to implement and test the following algorithms:
